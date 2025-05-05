@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.oojjrs.oh": "https://github.com/oojjrs/unity_oh.git?path=/Assets",
+    "com.oojjrs.osys": "https://github.com/oojjrs/unity_osys.git?path=/Assets",
+    "com.oojjrs.oui": "https://github.com/oojjrs/unity_oui.git?path=/Assets",
     "com.unity.addressables": "2.4.6",
     "com.unity.addressables.android": "1.0.6",
     "com.unity.cinemachine": "3.1.3",

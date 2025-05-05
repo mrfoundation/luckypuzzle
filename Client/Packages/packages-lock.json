@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.oojjrs.oh": {
+      "version": "https://github.com/oojjrs/unity_oh.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e7e7490cd812a9a42df19d036e0d4aa566b10ed4"
+    },
+    "com.oojjrs.osys": {
+      "version": "https://github.com/oojjrs/unity_osys.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "51c1e241f235e8ebc945a1fa2eaf6c772086bb98"
+    },
+    "com.oojjrs.oui": {
+      "version": "https://github.com/oojjrs/unity_oui.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2b1ceea273842a46aafc6e2f33a1e6afda025bd4"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
