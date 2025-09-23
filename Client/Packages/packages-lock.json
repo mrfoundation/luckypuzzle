@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e7e7490cd812a9a42df19d036e0d4aa566b10ed4"
+      "hash": "140665a4e03166c700617d4b646aed9c284ac712"
     },
     "com.oojjrs.osys": {
       "version": "https://github.com/oojjrs/unity_osys.git?path=/Assets",
